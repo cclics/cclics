@@ -17,18 +17,17 @@ I'm Carla, a BPM Specialist  who loves to help people find out and improve busin
 <br><br>✨ **OPEN SOURCE**<br>
 | # | REPOSITORY | PLATFORM | DESCRIPTION | LANGUAGE |
 -- | -- | -- | -- | -- |
-| 1. | [Volleyball Buddies (NEW) ](https://github.com/cclics/duesclerk-mobile) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Application to manage dues for personal and business use. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | 
-| 2. | [Login Application](https://github.com/cclics/login-all) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Login backend API Service (Java SpringBoot) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
-| 3. | [Blog Maria Sirigaita](https://github.com/cclics/DuesClerk) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Blog about different subject in our society. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
-| 4. | [Shop01](https://github.com/cclics/wpp-locarno-shop01) |  | e-Commerce Application built using Wordpress || 
-| 5. | [App Project Next](https://github.com/cclics/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | This project is in the elaboration phase. | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| 1. | [Login Application](https://github.com/cclics/login-all) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Login backend API Service (Java SpringBoot) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| 2. | [Blog Maria Sirigaita](https://github.com/cclics/ms-blog) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | A blog about different topics in our society. | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| 3. | [Shop01](https://github.com/cclics/wpp-locarno-shop01) |  | e-Commerce Application built using Wordpress || 
+| 4. | [App Project Next](https://github.com/cclics/AndroidInternetConnectivity) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | This project is in the elaboration phase. | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
 |  |  |  |
-| 6. | [Scripts 01](https://github.com/cclics/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | General scripts. | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) |
-| 7. | [Scripts 02](https://github.com/cclics/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Set of scripts that helps manage the  development environment.  | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) |
+| 5. | [Scripts 01](https://github.com/cclics/vmware-host-modules-builder-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | General scripts. | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) |
+| 6. | [Scripts 02](https://github.com/cclics/linux-desktop-environment-tool-cli) | ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Set of scripts that helps manage the  development environment.  | ![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white) |
 |  | |  |  |  | |
 
    
-<br><br>📙 **Shortlisted Learning Projects**
+<br><br>📙 **Shortlisted Projects on my sandbox**
 |#|PROJECT NAME|PROJECT DESCRIPTION|
 |-|-|-|
 |1.|[Camunda Workflow](https://github.com/cclics/AceTheJavaCodingInterview)|Solve problems that are commonly asked in Java coding interviews related to common data structures like arrays, linked lists, strings, stacks, and queues, etc.
